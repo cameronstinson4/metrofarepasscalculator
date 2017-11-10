@@ -1,0 +1,1 @@
+The purpose of this project is to allow users to calculate wether or not buying a washington metro fair pass is worth it.
